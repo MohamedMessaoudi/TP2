@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background:lightgreen;
 }
 
 #header
 {
-	background: #ccc;
+	background: green;
 	padding: 20px;
 }
 
@@ -88,7 +88,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: green;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
